@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amiclosetoiss/static/css/main.ae5607bb.css",
+    "main.js": "/amiclosetoiss/static/js/main.aa08caae.js",
+    "static/js/787.59fbdfee.chunk.js": "/amiclosetoiss/static/js/787.59fbdfee.chunk.js",
+    "index.html": "/amiclosetoiss/index.html",
+    "main.ae5607bb.css.map": "/amiclosetoiss/static/css/main.ae5607bb.css.map",
+    "main.aa08caae.js.map": "/amiclosetoiss/static/js/main.aa08caae.js.map",
+    "787.59fbdfee.chunk.js.map": "/amiclosetoiss/static/js/787.59fbdfee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae5607bb.css",
+    "static/js/main.aa08caae.js"
+  ]
+}
