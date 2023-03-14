@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/amiclosetoiss/static/css/main.ae5607bb.css",
-    "main.js": "/amiclosetoiss/static/js/main.29b9f8e3.js",
+    "main.js": "/amiclosetoiss/static/js/main.8ba345b8.js",
     "static/js/787.59fbdfee.chunk.js": "/amiclosetoiss/static/js/787.59fbdfee.chunk.js",
     "index.html": "/amiclosetoiss/index.html",
     "main.ae5607bb.css.map": "/amiclosetoiss/static/css/main.ae5607bb.css.map",
-    "main.29b9f8e3.js.map": "/amiclosetoiss/static/js/main.29b9f8e3.js.map",
+    "main.8ba345b8.js.map": "/amiclosetoiss/static/js/main.8ba345b8.js.map",
     "787.59fbdfee.chunk.js.map": "/amiclosetoiss/static/js/787.59fbdfee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae5607bb.css",
-    "static/js/main.29b9f8e3.js"
+    "static/js/main.8ba345b8.js"
   ]
 }
